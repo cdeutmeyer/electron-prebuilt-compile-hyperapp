@@ -5,6 +5,10 @@
   "main": "main.js",
   "author": "",
   "license": "MIT",
+  "repository" : "cdeutmeyer/electron-prebuilt-compile-hyperapp",
+  "files": [
+    "src"
+  ],
   "dependencies": {
     "hyperapp": "^0.12.0"
   },
