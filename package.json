@@ -1,0 +1,20 @@
+{
+  "name": "electron-prebuilt-compile-hyperapp",
+  "version": "1.0.0",
+  "description": "minimal electron-prebuilt-compile hyperapp example",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hyperapp": "^0.12.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "babel-preset-es2016-node5": "^1.1.2",
+    "babel-preset-react": "^6.5.0",
+    "electron-prebuilt-compile": "^1.1.3"
+  }
+}
